@@ -22,31 +22,6 @@
   }
 }
 
-.bling {
-  animation: color-change 20s ease-in-out infinite;
-}
-
-@keyframes color-change {
-  0% {
-    color: red;
-  }
-  20% {
-    color: rgb(255, 123, 0);
-  }
-  40% {
-    color: rgb(100, 128, 0);
-  }
-  60% {
-    color: rgb(0, 255, 119);
-  }
-  80% {
-    color: rgb(0, 17, 255);
-  }
-  100% {
-    color: rgb(255, 0, 68);
-  }
-}
-
 
 
 .onmaibana {
@@ -78,13 +53,13 @@
   width:30%;
   max-width : 90%;
   height : 260px;  
-  background-color : rgb(2, 2, 2);
+  background-color : #292329;
   margin : 100px 20px;
   margin-right: 1px;
   padding : 40px 15px;
   display : flex;
   flex-direction : column;
-  box-shadow : 0 5px 20px rgba(0,0,0,0.5);
+  box-shadow : 0 5px 20px rgb(0, 0, 0);
   transition : 0.3s ease-in-out;
   border-radius : 15px;
 }
