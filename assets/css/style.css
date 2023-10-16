@@ -184,6 +184,12 @@ ul li .btn {
     border-radius: 20px;
 }
 
+.btn .active {
+    background-color: #ffc107;
+    color: #ffffff; 
+}
+
+
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
