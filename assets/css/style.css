@@ -179,6 +179,11 @@ ul li {
     display: inline-block;
 }
 
+ul li .btn {
+    width: 210px;
+    border-radius: 20px;
+}
+
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
