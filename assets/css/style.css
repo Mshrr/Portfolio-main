@@ -21,7 +21,7 @@ body {
 }
 
 #page-wraper {
-    background: -moz-linear-gradient(45deg, #136053 0%, #104653 29%, #38354b 66%, #2e4b57 100%);
+    background: -moz-linear-gradient(45deg, #586013 0%, #533b10 29%, #38354b 66%, #2e4b57 100%);
     background: -webkit-linear-gradient(45deg, #151717 0%,#0ea753 29%,#3e353f 66%,#09c8b2 100%);
     background: linear-gradient(45deg, #0b1a30 0%,#181c1d 29%,#384062 66%,#000000 100%);
     width: 100%;
@@ -47,7 +47,7 @@ body::after {
 	width: 70vmax;
 	height: 70vmax;
 	position: fixed;
-	background: rgba(72, 190, 222, 0.122);
+	background: #909b311f;
 	left: -20vmin;
 	top: -20vmin;
 	animation: morph 15s linear infinite alternate, spin 20s linear infinite;
