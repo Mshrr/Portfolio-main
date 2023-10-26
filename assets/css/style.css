@@ -22,15 +22,16 @@ body {
 
 #page-wraper {
   background-color: #24202c;
-  /* background: -moz-linear-gradient(45deg, #586013 0%, #533b10 29%, #38354b 66%, #2e4b57 100%);
+  /* background-image: linear-gradient(to bottom right, #081c33, #303544, #686b74); */
+  background: -moz-linear-gradient(45deg, #586013 0%, #533b10 29%, #38354b 66%, #2e4b57 100%);
     background: -webkit-linear-gradient(45deg, #151717 0%,#0ea753 29%,#3e353f 66%,#9fc809 100%);
-    background: linear-gradient(45deg, #0b1a30 0%,#181c1d 29%,#384062 66%,#000000 100%); */
+    background: linear-gradient(45deg, #0b1a30 0%,#181c1d 29%,#384062 66%,#000000 100%);
   width: 100%;
-  /* -webkit-animation: Gradient 15s ease infinite;
+  -webkit-animation: Gradient 15s ease infinite;
 	-moz-animation: Gradient 15s ease infinite;
 	animation: Gradient 15s ease infinite;
 	min-height: calc(100vh - 2rem);
-	display: flex; */
+	display: flex;
   flex-direction: column;
   align-items: stretch;
   justify-content: space-evenly;
